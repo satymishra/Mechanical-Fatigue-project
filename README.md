@@ -1,6 +1,6 @@
 # Mechanical Fatigue Prediction Project
 
-![Project Banner]([link_to_banner_image.png](https://yasincapar.com/wp-content/uploads/2021/05/Pic-2-1140x646.png))
+![Project Banner](https://yasincapar.com/wp-content/uploads/2021/05/Pic-2-1140x646.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
