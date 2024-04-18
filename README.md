@@ -84,4 +84,3 @@ This project is released under the [MIT License]. Feel free to use and modify th
 Provide your contact information (email, social media) for inquiries or collaboration opportunities.
 
 ---
-Feel free to customize this README template according to your project's unique details and style preferences.
